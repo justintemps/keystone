@@ -1,5 +1,11 @@
 # @arch-ui/tooltip
 
+## 0.1.10
+
+### Patch Changes
+
+- [`0b37b13b`](https://github.com/keystonejs/keystone/commit/0b37b13b5b11a5391b70920f9e8cbd6c5a71f586) [#2633](https://github.com/keystonejs/keystone/pull/2633) Thanks [@Vultraz](https://github.com/Vultraz)! - Fixed state updates on Tooltip when unmounted.
+
 ## 0.1.9
 
 ### Patch Changes
